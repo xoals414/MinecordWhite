@@ -12,14 +12,14 @@
 
 
 
-- 환경 세팅
+# 환경 세팅
 ---
 
 플러그인과 디스코드 봇 구동을 위한 개발 환경을 세팅 하도록 하겠습니다.
 
 
 
-- 파이썬
+# 파이썬
 
 **파이썬 설치**: https://www.python.org/downloads/
 파이썬 3.13.0(최신버전)을 다운로드 합니다.
@@ -28,7 +28,7 @@
 
 
 
-- 비쥬얼 스튜디오 코드
+# 비쥬얼 스튜디오 코드
 
 **비쥬얼 스튜디오 코드 설치**: https://code.visualstudio.com/
 비쥬얼 스튜디오 코드(최신버전)을 다운로드 합니다.
@@ -37,7 +37,7 @@
 
 
 
-- 자바
+# 자바
 
 **자바 설치**: https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html/
 자바 22를 다운로드 합니다.
@@ -46,7 +46,7 @@
 
 
 
-- 인텔리제이
+# 인텔리제이
 
 **인텔리제이 설치**: https://www.jetbrains.com/ko-kr/idea/download/?section=windows/
 IntelliJ IDEA Community Edition(최신버전)을 다운로드 합니다.
